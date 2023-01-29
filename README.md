@@ -58,5 +58,5 @@ pip install st-annotated-text
 ## Command for executing
 Clone this repository using ```git clone``` and after entering inside the folder run:
 ```
-python -m streamlit run Executor.py
+python -m streamlit run app.py
 ```
