@@ -2,40 +2,18 @@
 
  
 ## About
-MyGymBuddy is python web application (hosted using streamlit) that uses computer vision (through openCV and mediapipe) in order to visualize the exercises of the user. In the application, Users can select from a library of exercises and build their routine at home. From there, using their webcams, they are able to see how well their form is with feedback from the application.
-  
+FitGenie is an AI based gym assister which assists people who prefer home workouts. Insttead of going to gym, this gym assister helps people to do exercises correctly and also counts the number of sets and reps. Users can create their own at-home regimen by choosing from a library of exercises. They can then use their webcams to check the quality of their form using the app's feedback.This can be a great help to people who cannot afford to go to gym or do not go due to some personal reasons.
 
+## How we built it
+We have built this application using OpenCV, Mediapipe for capturing and visualizing the exercises of the user. This python web application was hosted using streamlit and deployed in Heroku. 
 
- 
  ## What we Learned
  
- This was a great learning experience for all memebers of the team, as we learned that how to use the OpenCV library, as well as how to use streamlit library that Python offerend. This was also a great experience where we all worked together and collaborated and how to split up tasks to ensure that no one was left out and to make sure that our project was completed in the right amount of time. 
+ We have learnt about opencv, mediapipe tools for computer vision. We have learnt about streamlit and how to host python applications in streamlit. 
 
 
  ## What can be Improved?
+ 
+One of the improvements is that we could add a feature such that users can be able to add their wn type of exercises, so that they will not be limited to the exercises that we have provided.
 
-Some of the biggest issues that we faced were having one camera connected at a time, which prevented us from being able to have as many exercises as we wanted to. One reason why this is important, and an improvement is that we can have more exercises and can have the user decide how they want to do their work out with having the need to move the camera. 
-
-We can also add more exercises as well, and this would be a simple addition, and it will benefit heavily from the improvements that can be made to our camera capturing abilities. 
-
-One large improvement that we could make would be to have users be able to put in their own workout so that they are not limited to the workouts that we have made for them.
-
-## Requirements
-
-For this project, run these commands to fufill all dependecies in order to run the project.
-```
-pip install opencv-python
-pip install mediapipe
-pip install streamlit
-pip install streamlit_lottie
-pip install requests
-pip install PIL
-pip install st-annotated-text
-```
-## Running the Project
-
-To run the project, first cd into the repo then run:
-
-```
-python -m streamlit run starter.py
-```
+One camera being attached at a time was one of the main problems we ran across because it limited the number of workouts we could perform. This is crucial and an enhancement because it allows us to add new workouts and let the user choose how to train without having to adjust the camera.
