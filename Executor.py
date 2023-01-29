@@ -50,9 +50,9 @@ with col1:
     for count, item in enumerate(exercise_list):
         if item:
             selected = True 
-            user_input_rep = st.text_input("Please enter rep amount: " + exercises[count], key=f"rep_{count}")
-            user_input_sets = st.text_input("Please enter set amount: " + exercises[count],key=f"sets_{count}")
-            exercise_to_do[exercises[count]] = {"reps":user_input_rep,"sets":user_input_sets}
+            reps = st.text_input("Enter the number of reps: " + exercises[count], key=f"rep_{count}")
+            sets = st.text_input("Enter the number of sets: " + exercises[count],key=f"sets_{count}")
+            exercise_to_do[exercises[count]] = {"reps":reps,"sets":sets}
     options = st.button("Click me to begin.")
     if options:
         st.write(exercise_to_do)
