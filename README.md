@@ -2,7 +2,7 @@
 
 ## inspiration
 
-Fitness is one of the important aspect of our life. Some people cannot go to gym for doing exercises due to many reasons such as no cost affordability, personal reasons, hectic schedule etc. It would be helpful for them if they can do the workouts in home. So, this was our inspiration to build an AI based gym assister.
+Fitness  one of the important aspect of our life. Some people cannot go to gym for doing exercises due to many reasons such as no cost affordability, personal reasons, hectic schedule etc. It would be helpful for them if they can do the workouts in home. So, this was our inspiration to build an AI based gym assister.
 
 ![Kaia-Personal-Trainer-1024x636](https://user-images.githubusercontent.com/84268500/215325986-379b1ee0-2dfe-409f-a04f-24cfffebda45.jpg)
 
