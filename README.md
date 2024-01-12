@@ -8,7 +8,7 @@ Fitness is one of the important aspect of our life. Some people cannot go to gym
 
 ## About it 
 
-FitGenie is an AI based gym assister which assists people who prefer home workouts. Insttead of going to gym, this gym assister helps people to do exercises correctly and also counts the number of sets and reps. Users can create their own at-home regimen by choosing from a library of exercises. They can then use their webcams to check the quality of their form using the app's feedback.This can be a great help to people who cannot afford to go to gym or do not go due to some personal reasons.
+FitGenie is an AI based gym assister which assists people who prefer home workouts. Instead of going to gym, this gym assister helps people to do exercises correctly and also counts the number of sets and reps. Users can create their own at-home regimen by choosing from a library of exercises. They can then use their webcams to check the quality of their form using the app's feedback.This can be a great help to people who cannot afford to go to gym or do not go due to some personal reasons.
 
 ## Demo
 
